@@ -1,2 +1,2 @@
-# QuiCpp
-QUIC++, a QUIC-based P2P protocol in C++
+# QUIC++
+Let's make P2P clients over QUIC!
