@@ -2,10 +2,12 @@
 Let's make P2P clients over QUIC!
 
 ## TODO
-- Find lightweight QUIC implementations in C++
+- Find lightweight QUIC implementations in C/C++
+  - [mvfst](https://github.com/facebookincubator/mvfst), [QUANT](https://github.com/NTAP/quant), [picoquic](https://github.com/private-octopus/picoquic)
 - Start toy projects using QUIC libraries 
-  - File sharing program (compare to FTP, TCP)
+  - Simple chatting app
+  - File sharing
+    - Perfomance comparison to FTP/TCP : response time, average throughput, and etc.
   - Unreliable transmission
-  - Perfomance measurement : response time, average throughput, and etc.
 - Develop a P2P version of it
   - Peer discovery
