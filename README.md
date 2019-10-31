@@ -9,5 +9,6 @@ Let's make P2P applications using the IETF QUIC protocol!
   - File sharing
     - Perfomance comparison to FTP/TCP : response time, average throughput, and etc.
   - Unreliable transmission
+  - Use boost.asio or (experimental) networking TS
 - Develop a P2P version of it
   - Peer discovery
